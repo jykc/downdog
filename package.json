@@ -9,11 +9,16 @@
     "gatsby-plugin-offline": "^3.1.2",
     "gatsby-plugin-react-helmet": "^3.2.1",
     "gatsby-plugin-sass": "^2.2.1",
+    "gatsby-remark-responsive-iframe": "^2.3.4",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-google-maps": "^9.4.5",
     "react-helmet": "^5.2.1",
-    "react-images": "^1.0.0"
+    "react-images": "^1.0.0",
+    "react-scrollspy": "^3.4.0",
+    "smoothscroll-polyfill": "^0.4.4",
+    "surge": "^0.21.3"
   },
   "keywords": [
     "gatsby"
