@@ -103,7 +103,7 @@ const HomeIndex = () => {
           </header>
             <p>
               <p>
-              Try your first class for free, just drop us a <Scroll type="id" element="three"><a href="#three">message</a></Scroll> or give  us a call to book.
+              Try your first class for free! Just drop us a <Scroll type="id" element="three"><a href="#three">message</a></Scroll> or give  us a call to book.
               </p>
               <h3>Prices</h3>
               <ul>
@@ -137,7 +137,7 @@ const HomeIndex = () => {
               <h3>Master your Handstands Workshop</h3> 
                 <p><b>2nd May 2020, Saturday 10am-12pm</b>
                 <br />
-                <i>Have you always wanted to master your headstand? We provide great exercises and tips and personal advice in this masterclass.
+                <i>Have you always wanted to master your handstand? We provide great exercises and tips and personal advice in this masterclass.
                   Click <Scroll type="id" element="three"><a href="#three">here</a></Scroll> to book.
                 </i>
                 </p>
@@ -162,7 +162,7 @@ const HomeIndex = () => {
                   <li>Experience Spanish countryside, beautiful views and sunsets</li>
                   <li>Quiet, relaxing, homely environment to focus on your practice</li>
                   <li>Learn to surf</li>
-                  <li>Friendly, experienced,fun instructors</li>
+                  <li>Friendly, experienced, fun instructors</li>
                   <li>Likeminded people</li>
                   <li>Transfers from Sevilla or Malaga can be arranged for an additional £100</li>
                   <li>Single person supplements available for £100</li>
@@ -202,8 +202,8 @@ const HomeIndex = () => {
              <br /> 
              Facilities:
             <ul>
-              <li>Showers, towels and lockers are available.</li>
-              <li>We provide yoga mats and blocks.</li>
+              <li>Showers, towels and lockers are available</li>
+              <li>We provide yoga mats and blocks</li>
             </ul>
             </p>
           <Gallery
